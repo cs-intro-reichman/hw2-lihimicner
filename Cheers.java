@@ -18,7 +18,7 @@ public class Cheers {
                         || letter == 'M' || letter == 'N' || letter == 'O' || letter == 'R' || letter == 'S' || letter == 'X') {
                           System.out.println("Give me an " + letter + ": " + letter + "!");      
                         } else {                         
-                                System.out.println("Give me a " + letter + ": " + letter + "!");
+                                System.out.println("Give me a  " + letter + ": " + letter + "!");
                         }
                 } 
                 System.out.println("What does that spell?");
